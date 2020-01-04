@@ -1,2 +1,2 @@
-set buildpack heroku/nodejs
+set buildpack heroku/java
 worker: node index.js
